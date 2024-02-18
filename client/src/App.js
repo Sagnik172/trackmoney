@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+// for getting default styling of antd components
 import 'antd/dist/antd.css';
 import {Button} from 'antd'
 import {BrowserRouter,Navigate,Route,Routes} from "react-router-dom";

@@ -36,8 +36,7 @@ function Register() {
         <div className="register">
             {loading && <Spinner />}
             <div className="row justify-content-center align-items-center w-100 h-100">
-
-                <div className="col-md-5">
+               <div className="col-md-5">
                     <div className="lottie">
                         <lottie-player src="https://assets7.lottiefiles.com/packages/lf20_06a6pf9i.json"
                             background="transparent"
